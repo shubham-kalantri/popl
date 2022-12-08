@@ -1,1 +1,17 @@
-{"schema":{"fields":[{"name":"Name","type":"string"},{"name":"DOB","type":"string"},{"name":"Email","type":"string"}],"pandas_version":"0.20.0"},"data":[{"Name":"Shubham Kalantri","DOB":"10\/09\/2002","Email":"f20201008@goa.bits-pilani.ac.in"},{"Name":"Krishanu Shah","DOB":null,"Email":"f20201728@goa.bits-pilani.ac.in"},{"Name":"Saraswati Padmawar","DOB":"10\/08\/2002","Email":null}]}
+[
+  {
+    "Name": "Shubham Kalantri",
+    "DOB": "02/09/10",
+    "Email": "f20201008@goa.bits-pilani.ac.in"
+  },
+  {
+    "Name": "Krishanu Shah",
+    "DOB": null,
+    "Email": "f20201728@goa.bits-pilani.ac.in"
+  },
+  {
+    "Name": "Saraswati Padmawar",
+    "DOB": "02/08/10",
+    "Email": null
+  }
+]
